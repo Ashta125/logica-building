@@ -1,8 +1,4 @@
-Here is a clean and professional **README.md** content for your assignment 👇
-
----
-
-# 🔐 Python Mini Projects – Basic Logic Programs
+🔐 Python Mini Projects – Basic Logic Programs
 
 This repository contains simple Python programs demonstrating basic programming concepts such as conditional statements, loops, string manipulation, and list processing.
 
